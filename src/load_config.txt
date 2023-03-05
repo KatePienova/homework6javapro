@@ -1,0 +1,4 @@
+FILE:src/logsFolder/
+LEVEL:DEBUG
+MAX-SIZE:250
+FORMAT:Log_
